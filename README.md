@@ -1,4 +1,4 @@
-# Variation of stability for moduli spaces of unordered points in the plane (v1.0)
+# Variation of stability for moduli spaces of unordered points in the plane (v1.0.2)
 
 SageMath code for computations in the article
 
